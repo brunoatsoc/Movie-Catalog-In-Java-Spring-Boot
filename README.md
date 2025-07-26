@@ -91,7 +91,7 @@ cd moviecatalog
 
 ## 🧑‍💻 Author
 
-**Bruno Costa**  
+**Bruno Santos Costa**  
 Java Developer | Spring Boot Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brunocosta-blue?logo=linkedin)](https://www.linkedin.com/in/bruno-costa-698a82159/)  
